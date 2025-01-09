@@ -90,7 +90,7 @@ let d = new Date();
       day: "numeric",
       month: "long",
       year: "numeric",
-      });
+      });.
 
 global.calender = calender;
 
